@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome to nginx!</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<p>
+<a href="https://willonboy.github.io/test">https://willonboy.github.io/test</a><br/>
+<a href="https://willonboy.github.io/index">https://willonboy.github.io/index</a></p>
+<br/>
+<p>
+<a href="http://willonboy.github.io/test">http://willonboy.github.io/test</a><br/>
+<a href="http://willonboy.github.io/index">http://willonboy.github.io/index</a>
+</p>
+<br/>
+<p><a href="https://v.youku.com/test">https://v.youku.com/test</a></p>
+</body>
+</html>
