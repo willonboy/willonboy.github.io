@@ -23,7 +23,6 @@ deeplink test
 <tr>
   <td>频道页（总）</td>
   <td><a href="http://m.bilibili.com/channel.html" target="_blank">http://m.bilibili.com/channel.html</a></td>
-  <td></td>
   <td>分区页</td>
 </tr>
 <tr>
@@ -55,7 +54,6 @@ deeplink test
   <td>直播首页</td>
   <td><a href="http://live.bilibili.com" target="_blank">http://live.bilibili.com</a></td>
   <td></td>
-  <td></td>
 </tr>
 <tr>
   <td>直播房间页</td>
@@ -85,7 +83,6 @@ deeplink test
 <tr>
   <td>国漫索引</td>
   <td><a href="http://bangumi.bilibili.com/guoman/index" target="_blank">http://bangumi.bilibili.com/guoman/index</a></td>
-  <td></td>
   <td>国漫－索引</td>
 </tr>
 <tr>
