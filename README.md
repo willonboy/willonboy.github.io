@@ -98,7 +98,7 @@ deeplink test
 <tr>
   <td>电影播放页</td>
   <td><a href="http://bangumi.bilibili.com/movie/11326" target="_blank">http://bangumi.bilibili.com/movie/11326</a></td>
-  <td>movie_id=11326 对应aid＝8750243 视频详情页</td>
+  <td></td>
 </tr>
 <tr>
   <td>萌战</td>
