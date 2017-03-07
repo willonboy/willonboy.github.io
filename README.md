@@ -93,7 +93,7 @@ deeplink test
 </tr>
 <tr>
   <td>番剧分类</td>
-  <td><a href="http://bangumi.bilibili.com/anime/category/113" target="_blank">http://bangumi.bilibili.com/anime/category/113</a></td>
+  <td><a href="http://bangumi.bilibili.com/anime/category/81" target="_blank">http://bangumi.bilibili.com/anime/category/81</a></td>
   <td>番剧分类ID133 列表</td>
 </tr>
 <tr>
