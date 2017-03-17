@@ -9,6 +9,10 @@ deeplink test
 <a href="https://d.toutiao.com/hfoy/?extra=%7B%22__type__%22%3A%22slide_banner%22%2C%22group_id%22%3A%226398106399297421569%22%2C%22parent_group_id%22%3A%226398106399297421569%22%2C%22parent_item_id%22%3A%226397989027668034049%22%2C%22parent_rid%22%3A%2265502871489732973941%22%2C%22site_id%22%3A%225000246%22%2C%22aid%22%3A13%2C%22item_id%22%3A%226397989027668034049%22%7D">toutiao.com</a>
 <br>
 <a href='https://itunes.apple.com/cn/app/id529092160?mt=8&pt=873971&ct=wap_articlepage_topbanner'>itunes</a>
+<br>
+<a href="https://m.toutiao.com/i6397989027668034049/?tt_from=weixin&utm_campaign=client_share&from=singlemessage&app=news_article&utm_source=weixin&isappinstalled=1&iid=8827310195&utm_medium=toutiao_ios&wxshare_count=1">toutiao.com1</a>
+<br>
+<a href="https://toutiao.com/m/detail/?group_id=&item_id=&scheme=snssdk141%3A%2F%2Fdetail%3Fgroupid%3D6398106399297421569%26gd_label%3Dclick_wap_detail_top%26aggr_type%3D2%26item_id%3D6397989027668034049">toutiao2.com</a>
 
 <table class="table table-striped-black table-bordered">
 <thead>
