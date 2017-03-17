@@ -14,15 +14,6 @@ deeplink test
 <br>
 <a href="https://toutiao.com/m/detail/?group_id=&item_id=&scheme=snssdk141%3A%2F%2Fdetail%3Fgroupid%3D6398106399297421569%26gd_label%3Dclick_wap_detail_top%26aggr_type%3D2%26item_id%3D6397989027668034049">toutiao2.com</a>
 
-
-<script type="text/javascript">
-      setInterval("myInterval()",3000);//1000为1秒钟
-       function myInterval()
-       {
-            window.location.href="https://toutiao.com/m/detail/?group_id=&item_id=&scheme=snssdk141%3A%2F%2Fdetail%3Fgroupid%3D6398106399297421569%26gd_label%3Dclick_wap_detail_top%26aggr_type%3D2%26item_id%3D6397989027668034049";
-       }
- </script>
-
 <table class="table table-striped-black table-bordered">
 <thead>
 <tr>
@@ -74,6 +65,11 @@ deeplink test
 <tr>
   <td>直播房间页</td>
   <td><a href="http://live.bilibili.com/5439" target="_blank">http://live.bilibili.com/5439</a></td>
+  <td></td>
+</tr>
+<tr>
+  <td>直播房间页</td>
+  <td><a href="http://live.bilibili.com/h5" target="_blank">http://live.bilibili.com/h5</a></td>
   <td></td>
 </tr>
 <tr>
