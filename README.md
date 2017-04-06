@@ -13,6 +13,9 @@ deeplink test
 <a href="https://m.toutiao.com/i6397989027668034049/?tt_from=weixin&utm_campaign=client_share&from=singlemessage&app=news_article&utm_source=weixin&isappinstalled=1&iid=8827310195&utm_medium=toutiao_ios&wxshare_count=1">toutiao.com1</a>
 <br>
 <a href="https://toutiao.com/m/detail/?group_id=&item_id=&scheme=snssdk141%3A%2F%2Fdetail%3Fgroupid%3D6398106399297421569%26gd_label%3Dclick_wap_detail_top%26aggr_type%3D2%26item_id%3D6397989027668034049">toutiao2.com</a>
+<br>
+<a href="http://d.bilibili.com/download_app.html?preUrl=http%3A%2F%2Fm.bilibili.com%2Fvideo%2Fav8600139.html ">d.bilibili.com</a>
+</br>
 
 <table class="table table-striped-black table-bordered">
 <thead>
