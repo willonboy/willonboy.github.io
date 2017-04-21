@@ -66,6 +66,11 @@ deeplink test
   <td></td>
 </tr>
 <tr>
+  <td>直播/m页</td>
+  <td><a href="http://live.bilibili.com/m" target="_blank">http://live.bilibili.com/m</a></td>
+  <td></td>
+</tr>
+<tr>
   <td>直播房间页</td>
   <td><a href="http://live.bilibili.com/5439" target="_blank">http://live.bilibili.com/5439</a></td>
   <td></td>
