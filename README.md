@@ -16,6 +16,12 @@ deeplink test
 <br>
 <a href="http://d.bilibili.com/download_app.html?preUrl=http%3A%2F%2Fm.bilibili.com%2Fvideo%2Fav8600139.html ">d.bilibili.com</a>
 </br>
+<br>
+<a href="bilibili://video/9">bilibili://video/9</a>
+<br>
+
+
+
 
 <table class="table table-striped-black table-bordered">
 <thead>
