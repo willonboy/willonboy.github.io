@@ -72,6 +72,11 @@ deeplink test
   <td></td>
 </tr>
 <tr>
+  <td>直播首页</td>
+  <td><a href="http://live.bilibili.com/h5" target="_blank">http://live.bilibili.com/h5</a></td>
+  <td></td>
+</tr>
+<tr>
   <td>直播/m页</td>
   <td><a href="http://live.bilibili.com/m" target="_blank">http://live.bilibili.com/m</a></td>
   <td></td>
@@ -83,7 +88,17 @@ deeplink test
 </tr>
 <tr>
   <td>直播房间页</td>
-  <td><a href="http://live.bilibili.com/h5" target="_blank">http://live.bilibili.com/h5</a></td>
+  <td><a href="https://live.bilibili.com/h5/12" target="_blank">https://live.bilibili.com/h5/12</a></td>
+  <td></td>
+</tr>
+<tr>
+  <td>直播房间页</td>
+  <td><a href="https://live.bilibili.com/h5/46938" target="_blank">https://live.bilibili.com/h5/46938</a></td>
+  <td></td>
+</tr>
+<tr>
+  <td>直播房间页</td>
+  <td><a href="https://live.bilibili.com/live/46938.html" target="_blank">https://live.bilibili.com/live/46938.html</a></td>
   <td></td>
 </tr>
 <tr>
