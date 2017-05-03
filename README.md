@@ -19,6 +19,9 @@ deeplink test
 <br>
 <a href="bilibili://video/9">bilibili://video/9</a>
 <br>
+<br>
+<a href="http://live.bilibili.com/AppBanner/index?id=506">live AppBanner</a>
+<br>
 
 
 
