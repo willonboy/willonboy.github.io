@@ -110,6 +110,11 @@ deeplink test
   <td>season_id=5800</td>
 </tr>
 <tr>
+  <td>番剧详情页2</td>
+  <td><a href="http://bangumi.bilibili.com/mobile/anime/5800" target="_blank">http://bangumi.bilibili.com/mobile/anime/5800</a></td>
+  <td>season_id=5800</td>
+</tr>
+<tr>
   <td>番剧播放页</td>
   <td><a href="http://bangumi.bilibili.com/anime/5800/play#98603" target="_blank">http://bangumi.bilibili.com/anime/5800/play#98603</a></td>
   <td>season_id=5800</td>
