@@ -22,9 +22,9 @@ deeplink test
 <br>
 <a href="http://live.bilibili.com/AppBanner/index?id=506">live AppBanner</a>
 <br>
-
-
-
+<br>
+<a href="http://d.bilibili.com/download_app.html?preUrl=http://show.bilibili.com/m/tickets/64">show.bilibili.com</a>
+<br>
 
 <table class="table table-striped-black table-bordered">
 <thead>
