@@ -70,6 +70,11 @@ deeplink test
   <td></td>
 </tr>
 <tr>
+  <td>空间(新)</td>
+  <td><a href="https://m.bilibili.com/space/88165813" target="_blank">https://m.bilibili.com/space/88165813</a></td>
+  <td></td>
+</tr>
+<tr>
   <td>直播首页</td>
   <td><a href="http://live.bilibili.com" target="_blank">http://live.bilibili.com</a></td>
   <td></td>
