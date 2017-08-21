@@ -164,6 +164,11 @@ deeplink test
   <td><a href="http://www.bilibili.com/blackboard/activity-Hk-ZOAoKl.html" target="_blank">http://www.bilibili.com/blackboard/activity-Hk-ZOAoKl.html</a> 类似页面</td>
   <td>支持app内置webview打开</td>
 </tr>
+<tr>
+  <td>文章详情页</td>
+  <td><a href="http://www.bilibili.com/read/cv2859" target="_blank">http://www.bilibili.com/read/cv2859</a> 类似页面</td>
+  <td>支持app native页面显示</td>
+</tr>
 </tbody></table>
 
 
