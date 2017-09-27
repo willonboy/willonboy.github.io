@@ -169,6 +169,21 @@ deeplink test
   <td><a href="http://www.bilibili.com/read/cv2859" target="_blank">http://www.bilibili.com/read/cv2859</a> 类似页面</td>
   <td>支持app native页面显示</td>
 </tr>
+<tr>
+ <td>番剧长评</td>
+ <td><a href="https://bangumi.bilibili.com/review/media/6055/long/13" target="_blank">https://bangumi.bilibili.com/review/media/6055/long/13</a></td>
+<td>season_id=5800</td>
+</tr>
+<tr>
+ <td>番剧短评</td>
+ <td><a href="https://bangumi.bilibili.com/review/media/6055/" target="_blank">https://bangumi.bilibili.com/review/media/6055/</a></td>
+<td>season_id=5800</td>
+</tr>
+<tr>
+ <td>番剧播放页</td>
+ <td><a href="https://bangumi.bilibili.com/mobile/anime/5876/play/114557" target="_blank">https://bangumi.bilibili.com/mobile/anime/5876/play/114557</a></td>
+<td>season_id=5800</td>
+</tr>
 </tbody></table>
 
 
