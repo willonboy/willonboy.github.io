@@ -184,6 +184,32 @@ deeplink test
  <td><a href="https://bangumi.bilibili.com/mobile/anime/5876/play/114557" target="_blank">https://bangumi.bilibili.com/mobile/anime/5876/play/114557</a></td>
 <td>season_id=5800</td>
 </tr>
+  <tr>
+ <td>番剧作品详情页</td>
+ <td><a href="http://www.bilibili.com/bangumi/media/md6463/" target="_blank">http://www.bilibili.com/bangumi/media/md6463/</a></td>
+<td></td>
+</tr>
+  <tr>
+ <td>番剧播放页</td>
+ <td><a href="http://www.bilibili.com/bangumi/play/ss7779/" target="_blank">http://www.bilibili.com/bangumi/play/ss7779/</a></td>
+<td></td>
+</tr>
+  <tr>
+ <td>番剧播放页</td>
+ <td><a href="http://www.bilibili.com/bangumi/play/ep114873/" target="_blank">http://www.bilibili.com/bangumi/play/ep114873/</a></td>
+<td></td>
+</tr>
+  <tr>
+ <td>专栏详情页</td>
+ <td><a href="http://www.bilibili.com/read/mobile/578" target="_blank">http://www.bilibili.com/read/mobile/578</a></td>
+<td>season_id=5800</td>
+</tr>
+  </tr>
+  <tr>
+ <td>专栏详情页</td>
+ <td><a href="http://www.bilibili.com/read/cv111" target="_blank">http://www.bilibili.com/read/cv111</a></td>
+<td>season_id=5800</td>
+</tr>
 </tbody></table>
 
 
