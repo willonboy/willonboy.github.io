@@ -1,12 +1,14 @@
 # willonboy.github.io
+
 deeplink test
 
 
 
-Universal Link调起app失败???
-NO.1 你的bundle id是否和universal link设置的想匹配, 证书是否一致, 是否配置了hook的域名, 域名下是否配置了apple-app-site-association文件?
-NO.2 你安装app时是不是用了代理, 当前是不是用了代理? (用了代理可能导致iOS系统下载不了app对应的apple-app-site-association文件)
-NO.3 你当前访问的链接url是不是外链
+## Universal Link调起app失败???
+
+* NO.1 你的bundle id是否和universal link设置的想匹配, 证书是否一致, 是否配置了hook的域名, 域名下是否配置了apple-app-site-association文件?
+* NO.2 你安装app时是不是用了代理, 当前是不是用了代理? (用了代理可能导致iOS系统下载不了app对应的apple-app-site-association文件)
+* NO.3 你当前访问的链接url是不是外链
 
 
 
