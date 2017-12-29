@@ -223,7 +223,7 @@ deeplink test
 </tbody></table>
 
 
-<a href="http://d.bilibili.com/download_app.html?pre_url=http://app.biligame.com/detail?id=49" target="_blank">http://d.bilibili.com/download_app.html?pre_url=http://app.biligame.com/detail?id=49</a>
+<a href="http://d.bilibili.com/download_app.html?preUrl=http://app.biligame.com/detail?id=49" target="_blank">http://d.bilibili.com/download_app.html?preUrl=http://app.biligame.com/detail?id=49</a>
 
 
 
