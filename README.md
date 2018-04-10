@@ -72,7 +72,7 @@ deeplink test
 <tr>
   <td>TAG</td>
   <td><a href="http://m.bilibili.com/tag/name/" target="_blank">http://m.bilibili.com/tag/name/</a></td>
-  <td>Tag详情页</td>
+  <td>Tag详情页(仅pad)</td>
 </tr>
 <tr>
   <td>空间</td>
