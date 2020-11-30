@@ -85,6 +85,16 @@ deeplink test
   <td></td>
 </tr>
 <tr>
+  <td>空间(新)错误id</td>
+  <td><a href="https://m.bilibili.com/space/881658123233" target="_blank">https://m.bilibili.com/space/881658123233</a></td>
+  <td></td>
+</tr>
+<tr>
+  <td>空间(新)错误id</td>
+  <td><a href="https://m.bilibili.com/space/abdasdf" target="_blank">https://m.bilibili.com/space/abdasdf</a></td>
+  <td></td>
+</tr>
+<tr>
   <td>直播首页</td>
   <td><a href="http://live.bilibili.com" target="_blank">http://live.bilibili.com</a></td>
   <td></td>
