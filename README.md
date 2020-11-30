@@ -234,5 +234,7 @@ deeplink test
 
 <a href="http://www.bilibili.com/video/av17027625" target="_blank">http://www.bilibili.com/video/av17027625</a>
 
+<a href="https://d.bilibili.com/download_app.html?preUrl=https%3a%2f%2fwww.bilibili.com%2fh5%2fchannel%2f123" target="_blank">https://d.bilibili.com/download_app.html?preUrl=https%3a%2f%2fwww.bilibili.com%2fh5%2fchannel%2f123</a>
 
+<a href="https://d.bilibili.com/download_app.html?preUrl=https%3a%2f%2fwww.bilibili.com%2fh5%2fchannel%2fabc" target="_blank">https://d.bilibili.com/download_app.html?preUrl=https%3a%2f%2fwww.bilibili.com%2fh5%2fchannel%2fabc</a>
 
